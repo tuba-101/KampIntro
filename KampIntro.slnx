@@ -1,6 +1,9 @@
 <Solution>
   <Project Path="ClassIntro/ClassIntro.csproj" />
+  <Project Path="GenericsIntro/GenericsIntro.csproj" Id="d879ceeb-728c-4725-9cab-c0adebd98e9c" />
   <Project Path="KampIntro/KampIntro.csproj" />
+  <Project Path="Koleksiyonlar/Koleksiyonlar.csproj" Id="39949dfe-418f-4d18-b011-405588159e56" />
   <Project Path="Matematik/Matematik.csproj" Id="470111cd-0f8e-4b36-89c4-13196511644b" />
   <Project Path="Metotlar/Metotlar.csproj" Id="1d7abe3f-df0a-4741-bff1-b8adfc53a98a" />
+  <Project Path="OOP1/OOP1.csproj" Id="0ad4ad66-36d4-48f1-a137-3541bd7468b6" />
 </Solution>
